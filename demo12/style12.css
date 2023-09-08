@@ -5,6 +5,7 @@
 *{
   margin: 0;
   padding: 0;
+
 }
 
 
@@ -16,6 +17,11 @@
   border-radius: 50%;
   overflow: hidden;
   margin: 0px auto;
+}
+.list-unstyled li a{
+  text-decoration: none;
+  color: var(--bs-gray-500);
+
 }
 
 
