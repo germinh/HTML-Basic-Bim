@@ -1,11 +1,14 @@
 :root{
-    --primary--color:#ffff;
-  }
-  
-*{
-    margin: 0;
-    padding: 0;
+  --primary--color:#ffff;
 }
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+
 .img_frame{
   width: 230px;
   height: 230px;
@@ -14,17 +17,13 @@
   overflow: hidden;
   margin: 0px auto;
 }
-  #MainColor{
-    --bs-gray-200: #e9ecefbd;
-    background-color: var(--bs-gray-200) ;
-  }
-  
-  #Main-Color2{
-    background-color: #e3e8ed;}
-#layoutDefault_footer{
-  color: var(--bs-gray-200)
+
+
+
+#MainColor{
+  background-color: #e3e8ed;
 }
-.list-unstyled li a{
-  text-decoration: none;
-  color: white;
+
+#Main-Color2{
+  background-color: #e3e8ed;
 }
