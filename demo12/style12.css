@@ -7,8 +7,12 @@
   padding: 0;
 
 }
-
-
+body{
+  
+}
+.bg-demo6{
+  background-color:#061a2e ;
+}
 
 .img_frame{
   width: 230px;
@@ -18,13 +22,6 @@
   overflow: hidden;
   margin: 0px auto;
 }
-.list-unstyled li a{
-  text-decoration: none;
-  color: var(--bs-gray-500);
-
-}
-
-
 
 #MainColor{
   background-color: #e3e8ed;
@@ -32,4 +29,12 @@
 
 #Main-Color2{
   background-color: #e3e8ed;
+}
+.pd-hr{
+  padding-right: 6rem ;
+  padding-left: 6rem ;
+}
+.list-unstyled li a{
+  text-decoration: none;
+  color: var(--bs-gray-500);
 }
